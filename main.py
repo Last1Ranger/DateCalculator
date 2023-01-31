@@ -26,7 +26,7 @@ while a != "Стоп" and a != "стоп":
     elif operation == 5:
         print(firstdate ** secconddate)
     elif operation == 6:
-        print(firstdate + secconddate)
+        print(firstdate + secconddate)#d
     elif operation == 7:
         print(firstdate - secconddate)
     a = str(input("Хотите продолжить? Если нет, то просто введите Стоп."))
